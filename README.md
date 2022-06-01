@@ -5,7 +5,7 @@ alt="Chitanda eru bot" border="0">
 
 # **Whatsapp-Eru-bot**
 
-[![CodeFactor](https://www.codefactor.io/repository/github/oreki-san/eru-bot/badge)](https://www.codefactor.io/repository/github/oreki-san/eru-bot)
+[![CodeFactor](https://www.codefactor.io/repository/github/deepak260901/eru-bot/badge)](https://www.codefactor.io/repository/github/oreki-san/eru-bot)
 ##  ![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
 
@@ -17,7 +17,7 @@ alt="Chitanda eru bot" border="0">
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Oreki-san/Eru-Bot)
 
 ### 📌 Hosting Guide
-- Click Here > [Eru-Guide](https://github.com/Oreki-san/Eru-Guide/blob/main/README.md)
+- Click Here > [Eru-Guide](https://github.com/deepak260901/Eru-Guide/blob/main/README.md)
  
  ## 🍀 Installation
  
@@ -40,16 +40,15 @@ alt="Chitanda eru bot" border="0">
  
  ## 👥 Authors
  
- 👤 **Nurutomo**
+ 👤 **Deepak**
  
- * Github : https://github.com/Nurutomo
+ * Github : https://github.com/deepak260901
  
  ### Editor 
- 👤  **JJ Oreki**
-* Github : https://github.com/Oreki-san
-* Twitter: [@haremgodoreki](https://twitter.com/@haremgodoreki)
-* Instagram : [@ig_oreki](https://instagram.com/ig_oreki)
-* WhatsApp : [wa.me/919002370263]
+ 👤  **JJ Deepak**
+* Github : https://github.com/Deepak
+* Instagram : [@_g.a.p.p.u_](https://instagram.com/_g.a.p.p.u_)
+* WhatsApp : [wa.me/919015286428]
 
 
 
